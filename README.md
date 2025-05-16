@@ -37,19 +37,10 @@ Here's a bit about me:
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Bringing open source into the classroom – The Educational Project](https://schroedinger-hat.org/blog/open-source-in-classroom)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andre-cristhian-barreto-donayre)  
 [![Mastodon](https://img.shields.io/badge/-mastodon-1DA1F2?style=flat-square&logo=mastodon)](https://livellosegreto.it/@danersound)  
-
 
 ---
 
